@@ -10,5 +10,5 @@
     postgresql_data_directory: /data/postgresql/
     postgresql_conf_directory: /data/postgresql/
   roles:
-    #- ansible-roles_onmetal-db
+    - ansible-roles_onmetal-db
     - PostgreSQL
