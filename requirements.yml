@@ -1,0 +1,7 @@
+# from github installing to a relative path
+
+- src: https://github.com/kgorman/PostgreSQL.git
+  path: roles/
+
+- src: https://github.com/rackerlabs/ansible-roles_onmetal-db
+  path: roles/
